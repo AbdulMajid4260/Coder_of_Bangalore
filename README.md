@@ -75,4 +75,5 @@ The project demonstrates practical data-cleaning and analysis techniques using P
 Abdul Majid Shaik Mohammed
 
 - GitHub: https://github.com/AbdulMajid4260
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+- LinkedIn: https://www.linkedin.com/in/shaik-mohammed-abdul-majid-505b7a332/
+  
